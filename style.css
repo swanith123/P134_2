@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+    background-position: center; 
+    font-family: 'Cabin', sans-serif;
+}
+.heading
+{
+font-size: 25px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #person_found
+{
+font-size: 20px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
